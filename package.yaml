@@ -21,6 +21,7 @@ description:         Please see the README on GitHub at <https://github.com/liam
 
 dependencies:
 - base >= 4.7 && < 5
+- split >= 0.2.2.3
 
 library:
   source-dirs: src
